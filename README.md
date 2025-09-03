@@ -36,10 +36,7 @@ The dataset includes the following columns:
 
 ## 📊 Dashboard Preview  
 ### Main Dashboard  
-![Dashboard Screenshot](./Screenshot%202025-09-03%20153955.png)  
-
-### Dataset Preview  
-![Dataset Screenshot](./Screenshot%202025-09-03%20154031.png)  
+<img width="1467" height="692" alt="Screenshot 2025-09-03 153955" src="https://github.com/user-attachments/assets/1c28aa96-eda1-4c52-87ab-2594dbccd06d" />
 
 ---
 
@@ -73,4 +70,7 @@ The dataset includes the following columns:
 
 ---
 
-## 📁 Repository Structure  
+## ✨ Conclusion  
+This project highlights the use of **Excel for business intelligence and reporting**.  
+The dashboard provides a clear view of call center performance, helping stakeholders track KPIs, identify improvement areas, and optimize decision-making.  
+
